@@ -1,0 +1,14 @@
+[1mdiff --git a/color marker.html b/color marker.html[m
+[1mindex 540c2e1..10fe846 100644[m
+[1m--- a/color marker.html[m	
+[1m+++ b/color marker.html[m	
+[36m@@ -22,4 +22,6 @@[m
+         </div>[m
+     </div>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[32m+[m
+[32m+[m[32mamn pan pal[m
+\ No newline at end of file[m
